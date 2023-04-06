@@ -15,6 +15,7 @@ fun main(args: Array<String>) {
 
 
 	//test develop
+	// test main
 	runApplication<KafkaTestApplication>(*args)
 
 
