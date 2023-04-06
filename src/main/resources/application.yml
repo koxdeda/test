@@ -1,0 +1,19 @@
+kafka:
+  bootstrapAddress: localhost:9092
+  topics:
+    kafka-test: kafka-test
+
+  group:
+    id: app.1
+
+
+logging:
+  level:
+    root: info
+
+eventType:
+  regB: CLIENT_REGISTRATION_IN_BANK
+
+
+
+
